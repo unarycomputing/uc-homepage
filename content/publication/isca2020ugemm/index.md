@@ -37,16 +37,17 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: '#'
-url_slides: 'cv/CV_Di_Wu.pdf'
+url_slides: 'files/2020-05-30-isca-slide.pptx'
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=4lCKXD3g3yk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
-  focal_point: ""
-  preview_only: false
+  placement: 1
+  caption: 'Unifying GEMM for rate- and temporal-codings'
+  focal_point: "Center"
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
