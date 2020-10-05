@@ -1,9 +1,10 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Unary Computing
+summary: An emerging computing scheme based on uanry bit streams.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Unary Computing
+- Architecture
+date: "2018-06-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
