@@ -3,7 +3,7 @@ title: "uGEMM: Unary Computing Architecture for GEMM Applications"
 authors:
 - admin
 - Robert Ford
-date: "2020-06-01T00:00:00Z"
+date: "2020-05-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
