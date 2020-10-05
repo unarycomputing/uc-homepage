@@ -44,7 +44,7 @@ url_video: 'https://www.youtube.com/watch?v=4lCKXD3g3yk'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  placement: 1
+  placement: 2
   caption: 'Unifying GEMM for rate- and temporal-codings'
   focal_point: "Center"
   preview_only: true
