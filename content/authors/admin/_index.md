@@ -34,6 +34,11 @@ education:
     institution: Fudan University
     year: 2012
 
+Industry:
+- Digital Circuits Engineer, Hisilicon, 2015~2017
+- Research Intern, Facebook, 2019
+- Research Intern, Cerebras Systems, 2020
+
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
