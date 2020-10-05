@@ -2,7 +2,11 @@
 title: "uGEMM: Unary Computing Architecture for GEMM Applications"
 authors:
 - admin
-- Robert Ford
+- Jingjie Li
+- Ruokai Yin
+- Hsuan Hsiao
+- Younghyun Kim
+- Joshua San Miguel
 date: "2020-05-30T00:00:00Z"
 doi: ""
 
