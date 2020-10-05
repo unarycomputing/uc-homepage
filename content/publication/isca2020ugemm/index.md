@@ -36,7 +36,7 @@ url_pdf: https://ieeexplore.ieee.org/document/9139000/
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: '#'
+url_project: ''
 url_slides: 'files/2020-05-30-isca-slide.pptx'
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=4lCKXD3g3yk'
@@ -47,7 +47,7 @@ image:
   placement: 2
   caption: 'Unifying GEMM for rate- and temporal-codings'
   focal_point: "Center"
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
