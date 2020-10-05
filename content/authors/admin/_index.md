@@ -14,7 +14,7 @@ role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Department of ECE, University of Wisconsin -- Madison
+- name: Department of ECE, University of Wisconsin - Madison
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
