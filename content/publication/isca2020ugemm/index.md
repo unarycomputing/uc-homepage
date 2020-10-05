@@ -37,14 +37,14 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: '#'
-url_slides: '#'
+url_slides: 'cv/CV_Di_Wu.pdf'
 url_source: ''
 url_video: 'https://www.youtube.com/watch?v=4lCKXD3g3yk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Unifying GEMM for both rate- and temporal-codings'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -63,14 +63,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
