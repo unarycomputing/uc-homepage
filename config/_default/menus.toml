@@ -9,21 +9,16 @@
   weight = 10
   
 [[main]]
-  name = "CV"
-  url = "cv/CV_Di_Wu.pdf"
+  name = "Posts"
+  url = "#posts"
   weight = 20
   
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 30
-  
-[[main]]
   name = "Publications"
-  url = "#featured"
-  weight = 40
+  url = "#publications"
+  weight = 30
   
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 50
+  weight = 40
