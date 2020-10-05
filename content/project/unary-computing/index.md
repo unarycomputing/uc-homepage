@@ -1,6 +1,6 @@
 ---
 title: Unary Computing
-summary: An emerging computing scheme based on uanry bit streams.
+summary: An emerging computing scheme based on unary bit streams.
 tags:
 - Unary Computing
 - Architecture
