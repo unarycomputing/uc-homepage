@@ -97,8 +97,7 @@ address = {street = "1415 Engineering Dr", city = "Madison", region = "WI", post
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-# coordinates = {latitude = "43.072011", longitude = "-89.410161"}
-coordinates = {}
+coordinates = {latitude = "43.072011", longitude = "-89.410161"}
 
 # Directions for visitors to locate you.
 directions = ""
