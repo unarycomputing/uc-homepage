@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Di Wu is a Wisconsin Badger in Computer Architecture!
+bio: A Wisconsin Badger in Computer Architecture!
 
 interests:
 - Approximate Computing
