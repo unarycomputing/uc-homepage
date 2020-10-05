@@ -70,4 +70,6 @@ highlight_name: True
 # - Visitors
 ---
 
-Di Wu is currently a PhD student on computer architecture with professor Joshua San Miguel in [UW STACS LAB](https://jsm.ece.wisc.edu/). Before joining the UW--Madison, he received the bachelor and master degree from Fudan University in 2012 and 2015, respectively, as well as spending 2 years in Hisilicon as a digital circuit designer.
+Di Wu is currently a PhD student on computer architecture with professor Joshua San Miguel in [UW STACS LAB](https://jsm.ece.wisc.edu/). Before joining the UW--Madison, he received the bachelor and master degree from Fudan University in 2012 and 2015, as well as spending 2 years in Hisilicon as a digital circuit designer.
+
+During PhD study, he also did research internship in Facebook and Cerebras Systems in 2019 and 2020, recpectively, and enjoyed the time in California a lot.
