@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MEng in Integrated Circuits Engineering
+  - course: MEng in IC Engineering
     institution: Fudan University
     year: 2015
   - course: BSc in Microelectronics
@@ -70,4 +70,4 @@ highlight_name: True
 # - Visitors
 ---
 
-Di Wu is a PhD student with professor Joshua San Miguel in [UW STACS LAB](https://jsm.ece.wisc.edu/). He is working on computer architecture for emerging applications.
+Di Wu is currently a PhD student with professor Joshua San Miguel in [UW STACS LAB](https://jsm.ece.wisc.edu/). He is working on computer architecture for emerging applications.
