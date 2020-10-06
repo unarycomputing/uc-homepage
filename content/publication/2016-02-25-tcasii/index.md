@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Circuits and Systems II: Express Briefs*
+publication: In *IEEE Transactions on Circuits and Systems II-Express Briefs*
 publication_short: In *TCASII*
 
 abstract: This brief presents three strategies, including initialization based on Look Up Table (LUT), postprocessing based on bit flipping and hard decision based on the posterior information, to reduce the number of decoding cycles (DCs) for stochastic low-density parity-check decoding. For the standard IEEE 802.3an code, simulation indicates a 73.6% reduction in the average number of DCs with a satisfactory bit error rate. Moreover, hardware implementation shows that the area required for the proposed decoder is significantly reduced.

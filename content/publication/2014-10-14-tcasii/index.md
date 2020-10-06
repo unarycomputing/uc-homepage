@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Circuits and Systems II: Express Briefs*
+publication: In *IEEE Transactions on Circuits and Systems II-Express Briefs*
 publication_short: In *TCASII*
 
 abstract: An area-efficient multirate low-density parity-check convolutional code (LDPC-CC) decoder is presented in this brief. Using the layered decoding algorithm, the decoder achieves a bet- ter performance than the message-passing algorithm; the extrinsic- message storing is switched from variable node based to check node based. Then, using the normalized min-sum (NMS) algo- rithm, the extrinsic messages can be reduced to the first and second minimum absolute values, the position index of the first minimum absolute value, the signs of all extrinsic messages, and the product of all the signs. A memory-based application-specific integrated circuit architecture of the LDPC-CC decoder that supports these methods is proposed for the IEEE 1901 stan- dard. Based on a SMIC 130-nm complementary metal–oxide– semiconductor process, a decoder that can support all the code rates of the LDPC-CCs defined in IEEE 1901 (1/2, 2/3, 3/4, 4/5) is fabricated and evaluated. The proposed decoder attains a maxi- mum throughput of 300 Mb/s at a maximum operating frequency of 180 MHz. The core area is 3.55 mm2 with ten processors. The average power consumption is 200.4 mW at code rate 4/5 and a frequency of 180 MHz, and the power efficiency is 66.8 pJ/bit/proc. The very large scale integration results show that the decoder is both memory and area efficient.
