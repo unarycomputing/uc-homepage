@@ -36,12 +36,12 @@ tags:
 featured: true
 
 links:
-url_pdf: 'files/isca2020ugemm-paper.pdf'
+url_pdf: 'files/2020-05-30-isca-paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'files/isca2020ugemm-slide.pptx'
+url_slides: 'files/2020-05-30-isca-slide.pptx'
 url_source: 'https://ieeexplore.ieee.org/document/9139000/'
 url_video: 'https://www.youtube.com/watch?v=4lCKXD3g3yk'
 

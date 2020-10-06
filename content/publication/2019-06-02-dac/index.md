@@ -35,13 +35,13 @@ tags:
 featured: true
 
 links:
-url_pdf: https://ieeexplore.ieee.org/document/8806792
+url_pdf: 'files/2019-06-02-dac-paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: 'files/2019-06-02-dac-poster.pdf'
 url_project: ''
 url_slides: 'files/2019-06-02-dac-slide.pdf'
-url_source: ''
+url_source: 'https://ieeexplore.ieee.org/document/8806792'
 url_video: ''
 
 # Featured image
