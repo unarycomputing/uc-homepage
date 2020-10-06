@@ -1,5 +1,5 @@
 ---
-title: "In-Stream Stochastic Division and Square Root via Correlation"
+title: "Approximate Hardware Techniques for Energy-Quality Scaling Across the System"
 authors:
 - Younghyun Kim
 - Joshua San Miguel
