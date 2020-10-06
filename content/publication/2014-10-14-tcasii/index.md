@@ -30,7 +30,7 @@ summary:
 tags:
 - LDPC
 - Area Efficient
-featured: true
+featured: false
 
 links:
 url_pdf: 'files/2014-10-14-tcasii-paper.pdf'

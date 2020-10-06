@@ -32,7 +32,7 @@ tags:
 - High Throughput
 - LDPC
 - Optical Communication
-featured: true
+featured: false
 
 links:
 url_pdf: 'files/2013-10-28-asicon-paper.pdf'
