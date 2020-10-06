@@ -1,9 +1,12 @@
 ---
-title: "In-Stream Stochastic Division and Square Root via Correlation"
+title: "Strategies for Reducing Decoding Cycles in Stochastic LDPC Decoders"
 authors:
 - admin
-- Joshua San Miguel
-date: "2019-06-02T00:00:00Z"
+- Yun Chen 
+- Qichen Zhang
+- Yeong-luh Ueng
+- Xiaoyang Zeng
+date: "2016-02-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,35 +16,31 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Design Automation Conference*
-publication_short: In *DAC*
+publication: In *IEEE Transactions on Circuits and Systems II: Express Briefs*
+publication_short: In *TCASII*
 
-abstract: Stochastic Computing (SC) is designed to minimize hardware area and power consumption compared to traditional binary-encoded computation, stemming from the bit-serial data representation and extremely straightforward logic. Though existing Stochastic Computing Units mostly assume uncorrelated bit streams, recent works find that correlation can be exploited for higher accuracy. We propose novel architectures for SC division and square root, which leverage correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. We also introduce new metrics to better evaluate SC circuits relying on equilibrium via feedback loops. Experiments indicate that our division converges 46.3% faster with both 43.3% lower error and 45.6% less area.
+abstract: This brief presents three strategies, including initialization based on Look Up Table (LUT), postprocessing based on bit flipping and hard decision based on the posterior information, to reduce the number of decoding cycles (DCs) for stochastic low-density parity-check decoding. For the standard IEEE 802.3an code, simulation indicates a 73.6% reduction in the average number of DCs with a satisfactory bit error rate. Moreover, hardware implementation shows that the area required for the proposed decoder is significantly reduced.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- Unary Computing
 - Stochastic Computing
-- Energy Efficiency
-- Architecture
-- Division
-- Square Root
-- Nonlinearity
+- LDPC
+- Low Latency
 featured: true
 
 links:
-url_pdf: 'files/2019-06-02-dac-paper.pdf'
+url_pdf: 'files/2016-02-25-tcasii-paper.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'files/2019-06-02-dac-poster.pdf'
+url_poster: ''
 url_project: ''
-url_slides: 'files/2019-06-02-dac-slide.pdf'
-url_source: 'https://ieeexplore.ieee.org/document/8806792'
+url_slides: ''
+url_source: 'https://ieeexplore.ieee.org/document/7419905'
 url_video: ''
 
 # Featured image
@@ -57,8 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- unary
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

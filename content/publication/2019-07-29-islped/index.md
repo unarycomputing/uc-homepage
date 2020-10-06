@@ -1,9 +1,14 @@
 ---
-title: "In-Stream Stochastic Division and Square Root via Correlation"
+title: "SECO: A Scalable Accuracy Approximate Exponential Function Via Cross-Layer Optimization"
 authors:
 - admin
+- Tianen Chen
+- Chienfu Chen
+- Oghenefego Ahia
 - Joshua San Miguel
-date: "2019-06-02T00:00:00Z"
+- Mikko Lipasti
+- Younghyun Kim
+date: "2019-07-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,32 +21,32 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Design Automation Conference*
-publication_short: In *DAC*
+publication: In *IEEE/ACM International Symposium on Low Power Electronics and Design*
+publication_short: In *ISLPED*
 
-abstract: Stochastic Computing (SC) is designed to minimize hardware area and power consumption compared to traditional binary-encoded computation, stemming from the bit-serial data representation and extremely straightforward logic. Though existing Stochastic Computing Units mostly assume uncorrelated bit streams, recent works find that correlation can be exploited for higher accuracy. We propose novel architectures for SC division and square root, which leverage correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. We also introduce new metrics to better evaluate SC circuits relying on equilibrium via feedback loops. Experiments indicate that our division converges 46.3% faster with both 43.3% lower error and 45.6% less area.
+abstract: From signal processing to emerging deep neural networks, a range of applications exhibit intrinsic error resilience. For such applications, approximate computing opens up new possibilities for energy-efficient computing by producing slightly inaccurate results using greatly simplified hardware. Adopting this approach, a variety of basic arithmetic units, such as adders and multipliers, have been effectively redesigned to generate approximate results for many error-resilient applications.In this work, we propose SECO, an approximate exponential function unit (EFU). Exponentiation is a key operation in many signal processing applications and more importantly in spiking neuron models, but its energy-efficient implementation has been inadequately explored. We also introduce a cross-layer design method for SECO to optimize the energy-accuracy trade-off. At the algorithm level, SECO offers runtime scaling between energy efficiency and accuracy based on approximate Taylor expansion, where the error is minimized by optimizing parameters using discrete gradient descent at design time. At the circuit level, our error analysis method efficiently explores the design space to select the energy-accuracy-optimal approximate multiplier at design time. In tandem, the cross-layer design and runtime optimization method are able to generate energy-efficient and accurate approximate EFU designs that are up to 99.7% accurate at a power consumption of 3.73 pJ per exponential operation. SECO is also evaluated on the adaptive exponential integrate-and-fire neuron model, yielding only 0.002% timing error and 0.067% value error compared to the precise neuron model.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- Unary Computing
-- Stochastic Computing
+- Approximate Computing
 - Energy Efficiency
-- Architecture
-- Division
-- Square Root
+- Exponentiation
 - Nonlinearity
+- Neuron Simulation
+- Taylor Series
+- Dynamic Accuracy-Energy Scaling
 featured: true
 
 links:
-url_pdf: 'files/2019-06-02-dac-paper.pdf'
+url_pdf: 'files/2019-07-29-islped-paper.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'files/2019-06-02-dac-poster.pdf'
+url_poster: 'files/2019-07-29-islped-poster.pdf'
 url_project: ''
-url_slides: 'files/2019-06-02-dac-slide.pdf'
-url_source: 'https://ieeexplore.ieee.org/document/8806792'
+url_slides: 'files/2019-07-29-islped-slide.pdf'
+url_source: 'https://ieeexplore.ieee.org/document/8824959'
 url_video: ''
 
 # Featured image
@@ -58,7 +63,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- unary
+- raven
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

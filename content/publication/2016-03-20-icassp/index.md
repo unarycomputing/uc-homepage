@@ -1,9 +1,12 @@
 ---
-title: "In-Stream Stochastic Division and Square Root via Correlation"
+title: "Convergence-Optimized Variable Node Structure for Stochastic LDPC Decoder"
 authors:
+- Qichen Zhang
+- Yun Chen
 - admin
-- Joshua San Miguel
-date: "2019-06-02T00:00:00Z"
+- Xiaoyang Zeng
+- Yeong-luh Ueng
+date: "2016-03-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,32 +19,28 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Design Automation Conference*
-publication_short: In *DAC*
+publication: In *IEEE International Conference on Acoustics, Speech and Signal Processing*
+publication_short: In *ICASSP*
 
-abstract: Stochastic Computing (SC) is designed to minimize hardware area and power consumption compared to traditional binary-encoded computation, stemming from the bit-serial data representation and extremely straightforward logic. Though existing Stochastic Computing Units mostly assume uncorrelated bit streams, recent works find that correlation can be exploited for higher accuracy. We propose novel architectures for SC division and square root, which leverage correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. We also introduce new metrics to better evaluate SC circuits relying on equilibrium via feedback loops. Experiments indicate that our division converges 46.3% faster with both 43.3% lower error and 45.6% less area.
+abstract: By using stochastic computation, a fully-parallel low-density parity-check (LDPC) decoder can be implemented using a lower wire complexity. In order to enhance the decoder performance, probability tracers, such as up/down counters, are added at each edge between variable nodes and check nodes, as described in previous literature. However, this causes a large decoding latency and a high number of decoding failures. In this paper, a convergence-optimized structure for variable nodes is proposed that is able to overcome these issues. As a result, the throughput for the proposed decoder is 20.5Gb/s, which is 101% higher than the original counter-based decoder presented in the previous literature.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- Unary Computing
 - Stochastic Computing
-- Energy Efficiency
-- Architecture
-- Division
-- Square Root
-- Nonlinearity
-featured: true
+- LDPC
+- Low Latency
+featured: false
 
 links:
-url_pdf: 'files/2019-06-02-dac-paper.pdf'
+url_pdf: 'files/2016-03-20-icassp-paper.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'files/2019-06-02-dac-poster.pdf'
+url_poster: ''
 url_project: ''
-url_slides: 'files/2019-06-02-dac-slide.pdf'
-url_source: 'https://ieeexplore.ieee.org/document/8806792'
+url_slides: ''
+url_source: 'https://ieeexplore.ieee.org/abstract/document/7472936'
 url_video: ''
 
 # Featured image
@@ -57,8 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- unary
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

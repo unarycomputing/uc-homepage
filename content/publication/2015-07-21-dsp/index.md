@@ -1,9 +1,12 @@
 ---
-title: "In-Stream Stochastic Division and Square Root via Correlation"
+title: "An Area-Efficient Architecture for Stochastic LDPC Decoder"
 authors:
+- Qichen Zhang
+- Yun Chen
 - admin
-- Joshua San Miguel
-date: "2019-06-02T00:00:00Z"
+- Xiaoyang Zeng
+- Yeong-Iuh Ueng
+date: "2015-07-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,32 +19,27 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Design Automation Conference*
-publication_short: In *DAC*
+publication: In *IEEE International Conference on Digital Signal Processing*
+publication_short: In *DSP*
 
-abstract: Stochastic Computing (SC) is designed to minimize hardware area and power consumption compared to traditional binary-encoded computation, stemming from the bit-serial data representation and extremely straightforward logic. Though existing Stochastic Computing Units mostly assume uncorrelated bit streams, recent works find that correlation can be exploited for higher accuracy. We propose novel architectures for SC division and square root, which leverage correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. We also introduce new metrics to better evaluate SC circuits relying on equilibrium via feedback loops. Experiments indicate that our division converges 46.3% faster with both 43.3% lower error and 45.6% less area.
+abstract: Stochastic computation is an excellent approach for low-density parity-check codes decoding. By adding edge memories at each edge in the Tanner graph, fully parallel hardware implementation can be designed with much lower wire complexity. This feature can alleviate the wire congestion in conventional Min-Sum decoders. However, edge memories occupy large physical area percentage of variable node and cause large dynamic power dissipation. In this paper, we propose an area­ efficient counter based structure for variable nodes. In order to reduce the area of variable nodes, we eliminate the edge memories in all variable nodes and reuse the counter designed to function the hard-decision to trace the probability of the prior message. The value boundary of the counter is enlarged to record the probability more precisely, and the value of the counter is compared with a random number to determine the output of variable nodes. We also reuse parts of some sub-units in variable nodes to build others. As a result, for LDPC codes of 10GBASE­ T (IEEE 802.3an-2006), the proposed structure of variable node can reduce 88.3% EM based variable node area.
 
 # Summary. An optional shortened abstract.
 summary:
 
 tags:
-- Unary Computing
 - Stochastic Computing
-- Energy Efficiency
-- Architecture
-- Division
-- Square Root
-- Nonlinearity
-featured: true
+- LDPC
+featured: false
 
 links:
-url_pdf: 'files/2019-06-02-dac-paper.pdf'
+url_pdf: 'files/2015-07-21-dsp-paper.pdf'
 url_code: ''
 url_dataset: ''
-url_poster: 'files/2019-06-02-dac-poster.pdf'
+url_poster: ''
 url_project: ''
-url_slides: 'files/2019-06-02-dac-slide.pdf'
-url_source: 'https://ieeexplore.ieee.org/document/8806792'
+url_slides: ''
+url_source: 'https://ieeexplore.ieee.org/document/7251868'
 url_video: ''
 
 # Featured image
@@ -57,8 +55,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- unary
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
