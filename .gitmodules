@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/diwu1990/diwu1990.github.io.git
+	branch = master
