@@ -1,5 +1,5 @@
 ---
-title: uGEMM: Unary Computing Architecture for GEMM Applications
+title: Unary Computing Architecture for GEMM Applications
 event: ISCA
 event_url: https://iscaconf.org/isca2020/
 
