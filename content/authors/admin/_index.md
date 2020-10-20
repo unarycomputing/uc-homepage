@@ -44,7 +44,7 @@ social:
   link: 'mailto:di.wu@ece.wisc.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/diwu1990
+  link: https://www.linkedin.com/in/diwu1990
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=fg4qo-0AAAAJ&hl=en
