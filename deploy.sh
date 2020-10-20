@@ -11,6 +11,8 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cd public
 
+git checkout main
+
 # Add changes to git.
 git add *
 
@@ -22,4 +24,4 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin main
+git push -f origin main
