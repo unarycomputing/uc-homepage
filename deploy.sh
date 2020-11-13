@@ -5,6 +5,10 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+cd public
+git checkout main
+cd ..
+
 # Build the project.
 hugo mod clean
 hugo mod get -u ./...
@@ -12,8 +16,6 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
-
-git checkout main
 
 # Add changes to git.
 git add *
