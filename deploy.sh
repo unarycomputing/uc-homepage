@@ -5,6 +5,9 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+# Clean up the public dir
+rm -rf public
+git submodule update --init --recursive
 cd public
 git checkout main
 cd ..
