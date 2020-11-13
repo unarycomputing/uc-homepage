@@ -47,7 +47,7 @@ social:
   link: https://www.linkedin.com/in/diwu1990
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=fg4qo-0AAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=v6DNkTAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/diwu1990
