@@ -5,6 +5,10 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
+git add -f *
+git commit -m "add update"
+git push
+
 # Clean up the public dir
 rm -rf public
 git submodule update --init --recursive
