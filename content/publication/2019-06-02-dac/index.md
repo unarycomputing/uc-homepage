@@ -32,7 +32,7 @@ tags:
 - Division
 - Square Root
 - Nonlinearity
-featured: false
+featured: true
 
 links:
 url_pdf: 'files/2019-06-02-dac-paper.pdf'
