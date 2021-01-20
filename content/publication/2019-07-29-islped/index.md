@@ -37,7 +37,7 @@ tags:
 - Neuron Simulation
 - Taylor Series
 - Dynamic Accuracy-Energy Scaling
-featured: true
+featured: false
 
 links:
 url_pdf: 'files/2019-07-29-islped-paper.pdf'

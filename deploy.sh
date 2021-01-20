@@ -11,6 +11,11 @@ then
     rm -rf public
 fi
 
+if [ -d "resources" ]
+then
+    rm -rf resources
+fi
+
 git add *
 git commit -m "add update"
 git push

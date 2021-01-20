@@ -31,7 +31,7 @@ tags:
 - Stochastic Computing
 - LDPC
 - Low Latency
-featured: true
+featured: false
 
 links:
 url_pdf: 'files/2016-02-25-tcasii-paper.pdf'

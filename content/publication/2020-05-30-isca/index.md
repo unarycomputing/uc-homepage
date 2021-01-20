@@ -33,7 +33,7 @@ tags:
 - GEMM
 - Energy Efficiency
 - Architecture
-featured: true
+featured: false
 
 links:
 url_pdf: 'files/2020-05-30-isca-paper.pdf'
