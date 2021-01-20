@@ -12,7 +12,7 @@ git push
 # Clean up the public dir
 if [ ! -d "public" ]
 then
-    mkdir public
+    mkdir public & echo "i am public"
 fi
 
 rm -rf public
