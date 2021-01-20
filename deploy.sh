@@ -15,7 +15,7 @@ then
     rm -rf public
 fi
 
-git submodule update --init --recursive
+git submodule add -f -b master https://github.com/diwu1990/diwu1990.github.io.git public
 cd public
 git checkout main
 cd ..
