@@ -10,17 +10,11 @@ git commit -m "add update"
 git push
 
 # Clean up the public dir
-if [ ! -d "public" ]
-then
-    mkdir "public" & ls
-fi
-
 if [ -d "public" ]
 then
-    echo "i am public"
+    rm -rf public
 fi
 
-rm -rf public
 git submodule update --init --recursive
 cd public
 git checkout main
