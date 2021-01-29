@@ -16,7 +16,9 @@ superuser: true
 organizations:
 - name: UW STACS LAB
   url: "https://jsm.ece.wisc.edu/"
-
+- name: UW STACS LAB
+  url: "https://jsm.ece.wisc.edu/"
+  
 # Short bio (displayed in user profile at end of posts)
 # bio: A Wisconsin Badger in Computer Architecture!
 
