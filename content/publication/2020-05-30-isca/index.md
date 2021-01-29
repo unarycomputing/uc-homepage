@@ -1,7 +1,7 @@
 ---
 title: "uGEMM: Unary Computing Architecture for GEMM Applications"
 authors:
-- admin
+- Di Wu
 - Jingjie Li
 - Ruokai Yin
 - Hsuan Hsiao

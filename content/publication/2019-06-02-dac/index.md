@@ -1,7 +1,7 @@
 ---
 title: "In-Stream Stochastic Division and Square Root via Correlation"
 authors:
-- admin
+- Di Wu
 - Joshua San Miguel
 date: "2019-06-02T00:00:00Z"
 doi: ""
