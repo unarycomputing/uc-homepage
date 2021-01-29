@@ -32,6 +32,8 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
+
+# set up account
 git remote set-url origin git@github.com-unarycomputing:unarycomputing/unarycomputing.github.io.git
 # Add changes to git.
 git add *
