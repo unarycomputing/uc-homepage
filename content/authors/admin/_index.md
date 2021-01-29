@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: A Wisconsin Badger in Computer Architecture!
 
-# interests:
-# - Approximate Computing
-# - Unary Computing
-# - Reconfigurable Computing
+advatanges:
+- Extremely simple logic
+- Ultralow power consumption
+- Dynamic enery-accuracy scaling
 
 # education:
 #   courses:
