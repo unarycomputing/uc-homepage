@@ -20,7 +20,7 @@ git add *
 git commit -m "add update"
 git push
 
-git submodule add -f -b main https://github.com/diwu1990/diwu1990.github.io.git public
+git submodule add -f -b main https://github.com/unarycomputing/unarycomputing.github.io.git public
 cd public
 git checkout main
 cd ..
