@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/diwu1990/diwu1990.github.io.git
+	url = https://github.com/unarycomputing/unarycomputing.github.io.git
 	branch = main
