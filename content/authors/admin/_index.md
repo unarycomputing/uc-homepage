@@ -16,9 +16,9 @@ superuser: true
 organizations:
 - name: UW STACS LAB
   url: "https://jsm.ece.wisc.edu/"
-- name: UW STACS LAB
-  url: "https://jsm.ece.wisc.edu/"
-  
+# - name: LAB-2
+#   url: "https://jsm.ece.wisc.edu/"
+
 # Short bio (displayed in user profile at end of posts)
 # bio: A Wisconsin Badger in Computer Architecture!
 
@@ -40,10 +40,10 @@ organizations:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-# social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: 'mailto:di.wu@ece.wisc.edu'  # For a direct email link, use "mailto:test@example.org".
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:di.wu@ece.wisc.edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/in/diwu1990

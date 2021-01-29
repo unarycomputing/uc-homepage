@@ -1,5 +1,5 @@
 ---
-title: Unary Computing
+title: Performance Simulation for Unary Computing
 summary: An emerging computing scheme based on unary bit streams.
 tags:
 - Unary Computing
