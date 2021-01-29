@@ -25,13 +25,13 @@ abstract: Stochastic Computing (SC) is designed to minimize hardware area and po
 summary:
 
 tags:
-- Unary Computing
-- Stochastic Computing
-- Energy Efficiency
-- Architecture
-- Division
-- Square Root
-- Nonlinearity
+# - Unary Computing
+# - Stochastic Computing
+# - Energy Efficiency
+# - Architecture
+# - Division
+# - Square Root
+# - Nonlinearity
 featured: true
 
 links:

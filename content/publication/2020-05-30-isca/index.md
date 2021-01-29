@@ -29,10 +29,10 @@ abstract: General matrix multiplication (GEMM) is universal in various applicati
 summary:
 
 tags:
-- Unary Computing
-- GEMM
-- Energy Efficiency
-- Architecture
+# - Unary Computing
+# - GEMM
+# - Energy Efficiency
+# - Architecture
 featured: true
 
 links:
