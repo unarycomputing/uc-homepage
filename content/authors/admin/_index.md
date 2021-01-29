@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio: A Wisconsin Badger in Computer Architecture!
 
-advatanges:
-- Extremely simple logic
-- Ultralow power consumption
-- Dynamic enery-accuracy scaling
+# interests:
+# - Approximate Computing
+# - Unary Computing
+# - Reconfigurable Computing
 
 # education:
 #   courses:
@@ -41,7 +41,7 @@ advatanges:
 # social:
 # - icon: envelope
 #   icon_pack: fas
-#   link: https://jsm.ece.wisc.edu/  # For a direct email link, use "mailto:test@example.org".
+#   link: 'mailto:di.wu@ece.wisc.edu'  # For a direct email link, use "mailto:test@example.org".
 # - icon: linkedin
 #   icon_pack: fab
 #   link: https://www.linkedin.com/in/diwu1990
