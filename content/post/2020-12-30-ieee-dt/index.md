@@ -1,12 +1,12 @@
 ---
-title: Paper on nonlinear unit design is accepted in DAC 2019
+title: Paper on nonlinear unit design is accepted in IEEE Design & Test 2021
 subtitle: 
 summary: 
 authors: []
 tags: []
 categories: []
-date: "2019-06-02T00:00:00Z"
-lastMod: "2019-06-02T00:00:00Z"
+date: "2020-12-30T00:00:00Z"
+lastMod: "2020-12-30T00:00:00Z"
 featured: false
 draft: false
 
@@ -26,4 +26,4 @@ projects:
 - arch-fully-streaming
 ---
 
-[This paper](https://dl.acm.org/doi/10.1145/3316781.3317844) is titled "In-Stream Correlation-Based Division and Square Root in Stochastic Computing" and briefly introduced [here](https://unarycomputing.github.io/publication/2019-06-02-dac/).
+[This paper](https://ieeexplore.ieee.org/document/9319166) is titled "In-Stream Correlation-Based Division and Bit-Inserting Square Root in Stochastic Computing" in the IEEE Design & Test 2021 Special Issue on Stochastic Computing for Neuromorphic Architectures. And it is an extended work of the previous [DAC'19 paper](https://unarycomputing.github.io/publication/2019-06-02-dac/).

@@ -1,17 +1,12 @@
 ---
-title: Paper is accepted in ASP-DAC 2021
-subtitle: Early Termination for High Efficiency
-summary: This paper introduces a metric to identify better SC units and predict the timing for early termination.
-authors:
-- admin
-tags: 
-- Stochastic Computing
-- Metric
-- Early Termination
-- Energy Efficiency
+title: Paper on metric-based early termination is accepted in ASP-DAC 2021
+subtitle: 
+summary: 
+authors: []
+tags: []
 categories: []
-date: "2020-10-06T00:00:00Z"
-lastMod: "2020-10-06T00:00:00Z"
+date: "2020-09-12T00:00:00Z"
+lastMod: "2020-09-12T00:00:00Z"
 featured: false
 draft: false
 
@@ -28,5 +23,7 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- unary
+- sim-function
 ---
+
+This paper introduces a novel metric to monitor the accuracy evolution over time, and leverage this metric to early terminate stochastic computing reliably.
