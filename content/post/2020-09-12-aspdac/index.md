@@ -26,4 +26,4 @@ projects:
 - sim-function
 ---
 
-More information can be found [here](https://diwu1990.github.io/publication/2021-01-18-aspdac/).
+More information can be found [here](https://unarycomputing.github.io/publication/2021-01-18-aspdac/).
