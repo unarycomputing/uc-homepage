@@ -21,29 +21,25 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Symposium on Computer Architecture*
-publication_short: In *ISCA*
+publication_short: In *ISCA'20*
 
 abstract: General matrix multiplication (GEMM) is universal in various applications, such as signal processing, machine learning, and computer vision. Conventional GEMM hardware architectures based on binary computing exhibit low area and energy efficiency as they scale due to the spatial nature of number representation and computing. Unary computing, on the other hand, can be performed with extremely simple processing units, often just with a single logic gate. But currently there exist no efficient architectures for unary GEMM. In this paper, we present uGEMM, an area- and energy-efficient unary GEMM architecture enabled by novel arithmetic units. The proposed design relaxes previously-imposed constraints on input bit streams—low correlation and long stream length—and achieves superior area and energy efficiency over existing unary systems. Furthermore, uGEMM’s output bit streams exhibit higher accuracy and faster convergence, enabling dynamic energy-accuracy scaling on resource-constrained systems.
 
 # Summary. An optional shortened abstract.
 summary:
 
-tags:
-# - Unary Computing
-# - GEMM
-# - Energy Efficiency
-# - Architecture
+tags: []
 featured: true
 
 links:
 url_pdf: 'files/2020-05-30-isca-paper.pdf'
-url_code: ''
+url_code: 'https://github.com/diwu1990/UnarySim/tree/master/sw/test/kernel'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: 'files/2020-05-30-isca-slide.pptx'
 url_source: 'https://ieeexplore.ieee.org/document/9139000/'
-url_video: 'https://www.youtube.com/watch?v=4lCKXD3g3yk'
+url_video: 'https://www.youtube.com/watch?v=1VCHpr3Yad8&t'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Design Automation Conference*
-publication_short: In *DAC*
+publication_short: In *DAC'19*
 
 abstract: Stochastic Computing (SC) is designed to minimize hardware area and power consumption compared to traditional binary-encoded computation, stemming from the bit-serial data representation and extremely straightforward logic. Though existing Stochastic Computing Units mostly assume uncorrelated bit streams, recent works find that correlation can be exploited for higher accuracy. We propose novel architectures for SC division and square root, which leverage correlation via low-cost in-stream mechanisms that eliminate expensive bit stream regeneration. We also introduce new metrics to better evaluate SC circuits relying on equilibrium via feedback loops. Experiments indicate that our division converges 46.3% faster with both 43.3% lower error and 45.6% less area.
 
@@ -36,7 +36,7 @@ featured: true
 
 links:
 url_pdf: 'files/2019-06-02-dac-paper.pdf'
-url_code: ''
+url_code: 'https://github.com/diwu1990/UnarySim/tree/master/sw/test/kernel'
 url_dataset: ''
 url_poster: 'files/2019-06-02-dac-poster.pdf'
 url_project: ''

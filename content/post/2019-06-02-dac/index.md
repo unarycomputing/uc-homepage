@@ -26,4 +26,4 @@ projects:
 - arch-fully-streaming
 ---
 
-[This paper](https://dl.acm.org/doi/10.1145/3316781.3317844) is titled "In-Stream Correlation-Based Division and Square Root in Stochastic Computing" and briefly introduced [here](https://unarycomputing.github.io/publication/2019-06-02-dac/).
+[This paper](https://dl.acm.org/doi/10.1145/3316781.3317844) is titled "In-Stream Correlation-Based Division and Square Root in Stochastic Computing" and briefly summarized [here](https://unarycomputing.github.io/publication/2019-06-02-dac/).
