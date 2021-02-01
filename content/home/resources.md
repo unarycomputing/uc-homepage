@@ -1,7 +1,7 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: pages
+widget: blank
 
 # Activate this widget? true/false
 active: true
@@ -15,7 +15,7 @@ weight: 105
 title: "Useful Resources"
 subtitle:
 
-design:
+# design:
   # columns: "1"
   # background:
   #   image: headers/bubbles-wide.jpg
