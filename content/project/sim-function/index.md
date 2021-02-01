@@ -2,7 +2,7 @@
 title: Function Simulation for Unary Computing
 summary: 
 tags: []
-date: "2018-06-30T00:00:00Z"
+date: "2019-06-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
