@@ -26,4 +26,4 @@ projects:
 - sim-function
 ---
 
-This paper introduces a novel metric to monitor the accuracy evolution over time, and leverage this metric to early terminate stochastic computing reliably.
+More information can be found [here](https://diwu1990.github.io/publication/2021-01-18-aspdac/).

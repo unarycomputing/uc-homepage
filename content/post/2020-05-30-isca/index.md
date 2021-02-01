@@ -26,4 +26,4 @@ projects:
 - arch-fully-streaming
 ---
 
-This [ISCA'20 paper](https://ieeexplore.ieee.org/document/9139000) is briefly summarized [here](https://unarycomputing.github.io/publication/2020-05-30-isca/).
+More information can be found [here](https://diwu1990.github.io/publication/2020-05-30-isca/).
