@@ -1,12 +1,8 @@
 ---
 title: Hybrid Unary Binary Architecture
-summary: An emerging computing scheme based on unary bit streams.
-tags:
-- Unary Computing
-- Architecture
-- Low Power
-- Energy Efficiency
-date: "2018-06-30T00:00:00Z"
+summary: 
+tags: []
+date: "2021-10-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,7 +12,7 @@ image:
   focal_point: Smart
 
 links:
-url_code: "https://github.com/diwu1990/UnarySim"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -29,5 +25,4 @@ url_video: ""
 slides: ""
 ---
 
-Unary computing applies unary bit streams as internal data, and mitigates the conversion of data from unary to binary in converntional computers, leading to less system-level latency, as in the diagram.
-Currently, unary computing has already been applied to low-density parity-check code, image processing and machine learning. We create [UnarySim](https://github.com/diwu1990/UnarySim) to accurately simulate the behavior of unary computing at cycle level.
+Design hybrid unary binary architecture to avoid overly large power in fully streaming architecture, which is usually fully parallel.
