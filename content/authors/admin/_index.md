@@ -74,10 +74,10 @@ highlight_name: True
 
 Unary Computing is an emerging [neuromorphic computing](https://ee.stanford.edu/event/seminar/brain-unary-computer-special-seminar) paradigm that differs from conventional binary computing. The data in binary computing have multiple parallel bits, with each of different significance. On the contrary, the data in unary computing are in the form of unary bitstreams, with each of identical significance. 
 
-According to the bitstream coding, unary bitstreams can leverage either rate coding or temporal coding, which are two fundamental forms in [neural coding](https://en.wikipedia.org/wiki/Neural_coding).
+According to the bitstream coding, unary bitstreams can apply either rate coding or temporal coding, which are two fundamental forms in [neural coding](https://en.wikipedia.org/wiki/Neural_coding).
 
-1. Rate-coded unary computing is named [stochastic computing](https://en.wikipedia.org/wiki/Stochastic_computing). In stochastic computing, multiplication can be performed with a simple AND gate, and addition can be performed with a simple OR gate.
+1. Rate-coded unary computing is named [stochastic computing](https://en.wikipedia.org/wiki/Stochastic_computing). In stochastic computing, multiplication can be performed with a simple AND gate, while addition can be executed with a single OR gate.
 
-2. Temporal-coded unary computing is named [race logic](https://dl.acm.org/doi/10.1145/2678373.2665747). In race logic, an AND gate and an OR gate can perform minimum and maximum function.
+2. Temporal-coded unary computing is named [race logic](https://dl.acm.org/doi/10.1145/2678373.2665747). In race logic, an AND gate and an OR gate can perform the minimum and maximum function.
 
-As described above, the computing logic for unary computing is extremely simple and is a promising candidate for ultra-low-power applications. Therefore, exploiting unary computing for practical real-world use is the goal here.
+As described above, unary computing leverages extremely simple computing logic and is a promising candidate for ultra-low-power applications. Therefore, exploiting unary computing for practical real-world use is the goal here.
