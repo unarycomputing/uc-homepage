@@ -1,5 +1,5 @@
 ---
-title: uGEMM (ISCA'20) is selected as one of twelve IEEE Micro Top Picks 2021
+title: uGEMM (ISCA'20) is selected as one of twelve IEEE Micro Top Picks 2020
 subtitle:
 summary: 
 authors: []
@@ -24,7 +24,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: 
 - arch-fully-streaming
--sim-function
+- sim-function
 ---
 
 The original [ISCA'20 paper](https://ieeexplore.ieee.org/document/9139000) is summarized [here](https://unarycomputing.github.io/publication/2020-05-30-isca/).
