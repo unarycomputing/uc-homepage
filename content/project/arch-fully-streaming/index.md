@@ -25,4 +25,4 @@ url_video: ""
 slides: ""
 ---
 
-Design unary computing architecture and microarchitecture that does not introduce latency overhead in binary-unary data inter-conversion, so as to maximally overlap the computing at different stage to reduce the overall latency and energy consumption. This category of architecture is also usually fully parallel.
+Design unary computing architecture and microarchitecture that does not introduce latency overhead in binary-unary data inter-conversion, so as to maximally overlap the computing at different stages for hardware efficiency. This category of design is usually fully parallel.
