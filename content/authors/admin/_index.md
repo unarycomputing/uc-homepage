@@ -72,7 +72,7 @@ highlight_name: True
 # - Visitors
 ---
 
-Unary Computing is an [emerging neuromorphic computing paradigm](https://ee.stanford.edu/event/seminar/brain-unary-computer-special-seminar) that differs from conventional binary computing. The data in binary computing have multiple parallel bits, with each of different significance. On the contrary, the data in unary computing are in the form of unary bitstreams, with each of identical significance. 
+Unary Computing is an emerging [neuromorphic computing](https://ee.stanford.edu/event/seminar/brain-unary-computer-special-seminar) paradigm that differs from conventional binary computing. The data in binary computing have multiple parallel bits, with each of different significance. On the contrary, the data in unary computing are in the form of unary bitstreams, with each of identical significance. 
 
 According to the bitstream coding, unary bitstreams can leverage either rate coding or temporal coding, which are two fundamental forms in [neural coding](https://en.wikipedia.org/wiki/Neural_coding).
 Rate-coded unary computing is named [stochastic computing](https://en.wikipedia.org/wiki/Stochastic_computing), while temporal-coded unary computing is named [race logic](https://dl.acm.org/doi/10.1145/2678373.2665747).
