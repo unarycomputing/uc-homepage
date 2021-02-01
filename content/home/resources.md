@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 105
 
-title: "External Resources"
+title: "Useful Resources"
 subtitle:
 
 # design:
@@ -30,6 +30,7 @@ subtitle:
 
 | Author | Github | Language |
 | ------ | ------ | -------- |
+| [UW STACS LAB](https://jsm.ece.wisc.edu/) | [UnarySim](https://github.com/diwu1990/UnarySim) | PyTorch |
 | [UCSB ARCHLAB](https://www.arch.cs.ucsb.edu/) | [RaceLogic](https://github.com/UCSBarchlab/RaceLogic) | Python |
 | [UCSB ARCHLAB](https://www.arch.cs.ucsb.edu/) | [Superconducting-Temporal-Logic](https://github.com/UCSBarchlab/Superconducting-Temporal-Logic) | Shell |
 | [Emerging Computing Technology Laboratory at SJTU](http://umji.sjtu.edu.cn/~wkqian/index.html) | [Emerging Computing Technology Laboratory at SJTU](https://github.com/SJTU-ECTL) | C/C++ |
