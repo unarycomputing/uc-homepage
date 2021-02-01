@@ -28,4 +28,5 @@ subtitle:
   #   padding: ["20px", "0", "20px", "0"]
 ---
 
-1. [RaceLogic](https://github.com/UCSBarchlab/RaceLogic) from UCSB.
+1. [RaceLogic](https://github.com/UCSBarchlab/RaceLogic) from [UCSB ARCHLAB](https://www.arch.cs.ucsb.edu/).
+2. [Superconducting-Temporal-Logic](https://github.com/UCSBarchlab/Superconducting-Temporal-Logic) from [UCSB ARCHLAB](https://www.arch.cs.ucsb.edu/).
