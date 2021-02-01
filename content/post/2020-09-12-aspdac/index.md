@@ -1,5 +1,5 @@
 ---
-title: Paper on metric-based early termination is accepted in ASP-DAC 2021
+title: Two papers on metrics for stochastic computing are accepted in ASPDAC 2021
 subtitle: 
 summary: 
 authors: []
@@ -26,4 +26,4 @@ projects:
 - sim-function
 ---
 
-More information can be found [here](https://unarycomputing.github.io/publication/2021-01-18-aspdac/).
+More information can be found [here](https://unarycomputing.github.io/publication/2021-01-18-aspdac-ns/) and [here](https://unarycomputing.github.io/publication/2021-01-18-aspdac-zce/).
