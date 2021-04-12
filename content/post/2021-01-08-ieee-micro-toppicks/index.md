@@ -27,4 +27,6 @@ projects:
 - sim-function
 ---
 
+[This top pick paper](https://ieeexplore.ieee.org/document/9376243) is titled "uGEMM: Unary Computing for GEMM Applications" in the IEEE Micro 2021 special issue on "Top Picks from the 2020 Computer Architecture Conferences", collecting some of the most significant research papers in computer architecture based on novelty and potential for long-term impact. 
+And it is an extended work of the previous [ISCA'20 paper](https://ieeexplore.ieee.org/document/9139000/).
 More information can be found [here](https://unarycomputing.github.io/publication/2020-05-30-isca/).
