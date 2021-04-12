@@ -1,5 +1,5 @@
 ---
-title: Function Simulation for Unary Computing
+title: Functional Simulation for Unary Computing
 summary: 
 tags: []
 date: "2019-06-30T00:00:00Z"

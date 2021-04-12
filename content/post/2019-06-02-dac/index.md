@@ -23,7 +23,7 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: 
-- arch-fully-streaming
+- arch-fully-streaming-unary
 ---
 
 More information can be found [here](https://unarycomputing.github.io/publication/2019-06-02-dac/).
