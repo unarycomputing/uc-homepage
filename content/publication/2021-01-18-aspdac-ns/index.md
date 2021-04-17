@@ -26,7 +26,7 @@ abstract: Stochastic computing is a statistical computing scheme that represents
 summary:
 
 tags: []
-featured: true
+featured: false
 
 links:
 url_pdf: 'files/2021-01-18-aspdac-ns-paper.pdf'

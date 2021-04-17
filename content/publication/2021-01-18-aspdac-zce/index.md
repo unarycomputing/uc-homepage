@@ -27,7 +27,7 @@ abstract: Stochastic computing (SC), with its probabilistic data representation 
 summary:
 
 tags: []
-featured: true
+featured: false
 
 links:
 url_pdf: 'files/2021-01-18-aspdac-zce-paper.pdf'

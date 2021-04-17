@@ -56,7 +56,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - arch-fully-streaming
-- arch-function
+- sim-function
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
