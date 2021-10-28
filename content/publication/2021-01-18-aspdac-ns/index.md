@@ -18,7 +18,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Asia and South Pacific Design Automation Conference*
-publication_short: In *ASPDAC'21*
+publication_short: In *ASP-DAC'21*
 
 abstract: Stochastic computing is a statistical computing scheme that represents data as serial bit streams to greatly reduce hardware complexity. The key trade-off is that processing more bits in the streams yields higher computation accuracy at the cost of more latency and energy consumption. To maximize efficiency, it is desirable to account for the error tolerance of applications and terminate stochastic computations early when the result is acceptably accurate. Currently, the stochastic computing community lacks a standard means of measuring a circuit's potential for early termination and predicting at what cycle it would be safe to terminate. To fill this gap, we propose normalized stability, a metric that measures how fast a bit stream converges under a given accuracy budget. Our unit-level experiments show that normalized stability accurately reflects and contrasts the early-termination capabilities of varying stochastic computing units. Furthermore, our application-level experiments on low-density parity-check decoding, machine learning and image processing show that normalized stability can reduce the design space and predict the timing to terminate early.
 

@@ -1,11 +1,11 @@
 ---
-title: "Zero Correlation Error: A Metric for Finite-Length Bitstream Independence in Stochastic Computing"
+title: "Streaming Accuracy: Characterizing Early Termination in Stochastic Computing
+"
 authors:
 - Hsuan Hsiao
 - Joshua San Miguel
-- Yuko Hara-Azumi
 - Jason Anderson
-date: "2021-01-18T00:00:00Z"
+date: "2022-01-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,9 +19,9 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Asia and South Pacific Design Automation Conference*
-publication_short: In *ASP-DAC'21*
+publication_short: In *ASP-DAC'22*
 
-abstract: Stochastic computing (SC), with its probabilistic data representation format, has sparked renewed interest due to its ability to use very simple circuits to implement complex operations. Though unlike traditional binary computing, SC needs to carefully handle correlations that exist across data values to avoid the risk of unacceptably inaccurate results. With many SC circuits designed to operate under the assumption that input values are independent, it is important to provide the ability to accurately measure and characterize independence of SC bitstreams. We propose zero correlation error (ZCE), a metric that quantifies how independent two finite-length bitstreams are, and show that it addresses fundamental limitations in metrics currently used by the SC community. Through evaluation at both the functional unit level and application level, we demonstrate how ZCE can be an effective tool for analyzing SC bitstreams, simulating circuits and design space exploration.
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary:
@@ -30,13 +30,13 @@ tags: []
 featured: false
 
 links:
-url_pdf: 'files/2021-01-18-aspdac-zce-paper.pdf'
+url_pdf: 'files/2022-01-17-aspdac-paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: 'https://dl.acm.org/doi/10.1145/3394885.3431552'
+url_slides: 'files/2022-01-17-aspdac-slide.pdf'
+url_source: ''
 url_video: ''
 
 # Featured image
