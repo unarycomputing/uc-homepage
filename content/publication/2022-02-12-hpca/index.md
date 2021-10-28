@@ -1,7 +1,7 @@
 ---
 title: "uSystolic: Byte-Crawling Unary Systolic Array"
 authors:
-- admin
+- Di Wu
 - Joshua San Miguel
 date: "2022-02-12T00:00:00Z"
 doi: ""
