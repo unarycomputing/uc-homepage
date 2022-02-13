@@ -32,7 +32,7 @@ tags:
 featured: true
 
 links:
-url_pdf: ''
+url_pdf: 'files/2022-02-12-hpca-paper.pdf'
 url_code: 'https://github.com/diwu1990/uSystolic-Sim'
 url_dataset: ''
 url_poster: ''
