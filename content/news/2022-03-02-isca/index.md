@@ -25,6 +25,7 @@ image:
 projects: 
 - arch-hybrid-unary-binary
 - sim-performance
+- brain-computer-interface
 ---
 
 More information can be found [here](https://unarycomputing.github.io/publication/2022-06-11-isca/).

@@ -61,6 +61,7 @@ image:
 projects:
 - arch-hybrid-unary-binary
 - sim-performance
+- brain-computer-interface
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
