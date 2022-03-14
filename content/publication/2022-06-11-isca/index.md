@@ -1,5 +1,5 @@
 ---
-title: "uSystolic: Byte-Crawling Unary Systolic Array"
+title: "uBrain: A Unary Brain Computer Interface"
 authors:
 - Di Wu
 - Jingjie Li
