@@ -1,6 +1,6 @@
 ---
-title: "Streaming Accuracy: Characterizing Early Termination in Stochastic Computing
-"
+title: "Streaming Accuracy: Characterizing Early Termination in Stochastic Computing"
+
 authors:
 - Hsuan Hsiao
 - Joshua San Miguel
